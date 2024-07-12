@@ -17,7 +17,7 @@ This application calculates MMDC student's grades based on their Milestones, Ter
      
 ##  Screenshot
 
-![Uploading Screenshot 2024-07-12 at 11.00.23 PM.png…]()
+![Screenshot 2024-07-12 at 11 00 23 PM](https://github.com/user-attachments/assets/24f1e36b-ba83-418f-844c-170a7438839b)
 
 ## Future Plans
 - **Chrome Extension:** Plan to convert the application into a Chrome Extension.
