@@ -38,4 +38,4 @@ Feedback and contributions are welcomed! Feel free to suggest improvements, repo
 
 *2nd Update: July 11, 2024, 1:27 PM*
 
-*Latest Update: Ju 12, 2024, 11:11 PM*
+*Latest Update: July 12, 2024, 11:11 PM*
