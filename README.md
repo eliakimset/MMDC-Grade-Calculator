@@ -2,7 +2,7 @@
 
 This application calculates MMDC student's grades based on their Milestones, Terminal Assessment, and Learner’s Engagement (Attendance). It helps students determine the grades they need to achieve to pass or maintain certain grades.
 
-**Disclaimer:** This project is not affiliated with MMDC and is for educational purposes only.
+**Disclaimer:** This project is not affiliated with MMDC and is for educational and personal purposes only.
 
 ## How to Use
 
